@@ -44,7 +44,6 @@ trading_bot/
 
 ```bash
 git clone https://github.com/your-username/trading_bot.git
-cd trading_bot
 ```
 
 ### 4. Create a Virtual Environment
