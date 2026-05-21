@@ -43,7 +43,7 @@ trading_bot/
 ### 3. Clone / Download the Project
 
 ```bash
-git clone https://github.com/your-username/trading_bot.git
+git clone [https://github.com/your-username/trading_bot.git](https://github.com/huzaifalokhandwala0307/python-binance-trading-bot.git)
 ```
 
 ### 4. Create a Virtual Environment
